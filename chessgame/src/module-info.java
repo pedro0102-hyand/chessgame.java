@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author pedrojuliosilvasucupira
+ *
+ */
+module chessgame {
+}
